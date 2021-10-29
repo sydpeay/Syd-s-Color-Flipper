@@ -1,1 +1,5 @@
-# Syd-s-Color-Flipper
+# Syd's Color Flipper
+
+This project is my first successful attempt at integrating JavaScript into a webpage. I wanted to try my hand at a basic color flipper, as it is a popular beginner's project which uses functions I am familiar with. I wanted to be able to change the background of my page to any color, not just select from an array, so I built my randomColor function around random RGB values. I used the Math.floor and Math.random functions to generate a random number between 1 and 255, then assigned those values to my r, g, and b variables. From there, I used the HTML DOM to change the backgroundColor property of the page body. As has been typical of my coding practice thus far, I understood the underlying concept of what I needed to do very well, but my issues came from the minutae of formatting and syntax. I am going to continue working on my layout and script skills by building other small applets and components such as this.
+
+Thanks as always to [W3Schools](https://www.w3schools.com/) for helping me figure out what the heck I'm doing.
